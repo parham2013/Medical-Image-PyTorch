@@ -1,1 +1,1 @@
-In this Project we're trying to process medial images using PyTorch.
+In this Project we're trying to process medical images using PyTorch.
